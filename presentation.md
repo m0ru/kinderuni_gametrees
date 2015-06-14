@@ -2,6 +2,8 @@
 
 # Trees
 
+![Botanischer Baum - Eiche - gezeichnet](img/oak.png)
+
 picture of normal tree / stylized; then rotate it; transform to IT-tree
 
 take stuff from tgi/algodat/...? introductionary lectures
