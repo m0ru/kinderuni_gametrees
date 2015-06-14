@@ -25,7 +25,7 @@ go through list of own moves, pick one, go through list of opp moves
 
 say how much points each board is worth
 
-# Engine
+# Engines
 
 * [Stockfish](https://github.com/official-stockfish/Stockfish)
 * [Scorpio](https://github.com/dshawul/Scorpio)
